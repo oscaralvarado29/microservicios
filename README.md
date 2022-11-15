@@ -19,4 +19,4 @@ Los datos se envian en el siguiete json:
 }
 ```
 
-![Image text](images\postman.jpg)
+![Postman](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman.jpg)
