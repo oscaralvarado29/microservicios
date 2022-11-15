@@ -19,4 +19,6 @@ Los datos se envian en el siguiete json:
 }
 ```
 
-![Postman](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman.jpg)
+![Postman signup](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman.jpg)
+
+![Workbench signup]
