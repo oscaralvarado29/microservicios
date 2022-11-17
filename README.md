@@ -21,7 +21,7 @@ Los datos se envian en el siguiete json:
 
 ![Postman signup](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman.jpg)
 
-![Workbench signup]()
+![Workbench signup](https://github.com/oscaralvarado29/microservicios/blob/main/images/bdsignup.jpg)
 
 ## Microservicio de login
 
@@ -35,7 +35,7 @@ Los datos se envian en el siguiete json:
 }
 ```
 
-![Postman login]()
+![Postman login](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_login.jpg)
 
 ## Microservicio de barrios
 
@@ -49,29 +49,29 @@ Para realzar un post el json debe ser el siguiente:
 }
 ```
 
-![Postman barrio]()
+![Postman barrio](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_barrio.jpg)
 
-![Workbench barrio]()
+![Workbench barrio](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_barrio.jpg)
 
 Para consultar todos los barrios se crea un get de la siguiente manera:
 
-![Postman barrio getAll]()
+![Postman barrio getAll](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_barrio_getall.jpg)
 
 Para consultar un barrio en especifico se crea un get de la siguiente manera:
 
-![Postman barrio get]()
+![Postman barrio get](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_barrio_get.jpg)
 
 Para actualizar un barrio se crea un put de la siguiente manera:
 
-![Postman barrio put]()
+![Postman barrio put](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_barrio_update.jpg)
 
-![Workbench barrio put]()
+![Workbench barrio put](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_barrio_update.jpg)
 
 Para eliminar un barrio se crea un delete de la siguiente manera:
 
-![Postman barrio delete]()
+![Postman barrio delete](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_barrio_delete.jpg)
 
-![Workbench barrio delete]()
+![Workbench barrio delete](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_barrio_delete.jpg)
 
 ## Microservicio de rutas
 
@@ -117,22 +117,22 @@ Para realzar un post el json debe ser el siguiente:
 }
 ```
 
-![Postman ruta]()
+![Postman ruta](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_ruta.jpg)
 
-![Workbench ruta]()
+![Workbench ruta](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_ruta.jpg)
 
-![Workbench parada]()
+![Workbench parada](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_paradas.jpg)
 
-![Workbench viaje]()
+![Workbench viaje](https://github.com/oscaralvarado29/microservicios/blob/main/images/bd_viajes.jpg)
 
 Para consultar todas las rutas se crea un get de la siguiente manera:
 
-![Postman ruta getAll]()
+![Postman ruta getAll](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_ruta_getall.jpg)
 
 Para consultar una ruta en especifico se crea un get de la siguiente manera:
 
-![Postman ruta get]()
+![Postman ruta get](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_ruta_get.jpg)
 
 Para eliminar una ruta se crea un delete de la siguiente manera:
 
-![Postman ruta delete]()
+![Postman ruta delete](https://github.com/oscaralvarado29/microservicios/blob/main/images/postman_ruta_delete.jpg)
